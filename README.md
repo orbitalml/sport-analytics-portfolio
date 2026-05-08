@@ -7,8 +7,11 @@ ML applied to sports data.
 
 ## Projects
 
-- `02_serie_a_eda.ipynb` — Serie A 2024-25 EDA: goals, results and wins analysis
-- `03_recent_form.ipynb` — Serie A 2024-25: recent form analysis (last 5 matchdays)
+- `02_serie_a_eda.ipynb` — Serie A 2024-25 EDA: goals, results and wins analysis  
+  📊 [View on Kaggle](https://www.kaggle.com/code/orbitalml/serie-a-2024-25-exploratory-data-analysis)
+
+- `03_recent_form.ipynb` — Serie A 2024-25: recent form analysis (last 5 matchdays)  
+  📊 [View on Kaggle](https://www.kaggle.com/code/orbitalml/serie-a-2024-25-recent-form-last-5-matchdays)
 
 ## Key Findings — Serie A 2024-25
 - Average goals per match: 2.56
